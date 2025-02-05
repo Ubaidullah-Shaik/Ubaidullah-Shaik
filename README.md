@@ -39,24 +39,6 @@ Hi there! I'm **Ubaidullah Shaik**, a passionate Software Engineer and Cloud Com
 
 ---
 
-## Projects
-
-### Featured Projects:
-- **Afzal Fragrances E-commerce Website**
-  - Revamped the company's website by transforming an outdated PHP-based platform into a modern WordPress e-commerce site.
-  - Implemented responsive design, optimized user experience, and integrated advanced e-commerce functionality.
-  - [View Project](https://www.afzalfragrances.co.za)
-
-- **Private Tutoring Platform**
-  - Provided personalized C# and Java programming tuition to first and second-year students.
-  - Tailored lessons to individual learning styles, fostering a supportive and engaging learning environment.
-
-- **Vrentals Car & Van Hire Data Management**
-  - Accurately entered and managed large volumes of data, ensuring high levels of accuracy and efficiency.
-  - Collaborated effectively with team members to streamline administrative processes.
-
----
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ubaidullah-Shaik&show_icons=true&theme=radical)
